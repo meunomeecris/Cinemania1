@@ -85,7 +85,7 @@ h3{
 
 .container-home-photo1{
 	flex-basis: 55%;
-	background-image: url("photo/page_festival.jpg");
+	background-image: url("photo/photo-festival-page.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	margin-right: 30px;
@@ -161,7 +161,7 @@ h3{
 
 .container-accueil-photo1{
 	flex-basis: 50%;
-	background-image: url("photo/bresil-cine.jpg");
+	background-image: url("photo/photo-accueil-page.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -169,7 +169,7 @@ h3{
 
 .container-accueil-photo2{
 	flex-basis: 50%;
-	background-image: url("photo/Bruges-Cinema.jpg");
+	background-image: url("photo/photo-accueil-page1.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	
@@ -218,7 +218,7 @@ h3{
 
 .container-contact-photo1{
 	flex-basis: 30%;
-	background-image: url("photo/cine.jpg");
+	background-image: url("photo/photo-contact-page.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -226,7 +226,7 @@ h3{
 
 .container-contact-photo2{
 	flex-basis: 70%;
-	background-image: url("photo/photo-cinema.jpg");
+	background-image: url("photo/photo-contact-page1.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 	
