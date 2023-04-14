@@ -45,7 +45,7 @@ h3{
 }
 
 
-/* -------FESTIVAL INFO-------*/
+/*______________________ FESTIVAL PAGE_________________*/
 
 .info{
 	margin: 10% 10% ;
@@ -204,8 +204,8 @@ h3{
 	list-style: none;
 }
 
-.container-contact1 li {
-	margin-bottom: 20px;
+.container-contact1 dd {
+	margin-bottom: 25px;
 }
 
 /*-------PHOTOS-------*/
